@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.AssemblyInfo.cs
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.RazorAssemblyInfo.cache
+C:\Users\User\Desktop\Visual\Exe-18\WebApplication1\obj\Debug\net6.0\SalesWebMvc.RazorAssemblyInfo.cs
